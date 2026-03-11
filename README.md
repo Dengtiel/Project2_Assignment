@@ -1,8 +1,7 @@
-# CSC Assignment — C Programming Projects
+# CProject2_Assignment — C Programming Projects
 
 **Student Email:** d.akol@alustudent.com
 **Language:** C
-**Platform:** Ubuntu Linux
 **Compiler:** GCC
 
 ---
