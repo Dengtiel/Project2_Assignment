@@ -131,7 +131,7 @@ int build_stats(char **words, int n, struct wordStat **out_stats) {
 int main(void) {
     printf("========================================\n");
     printf("  Adaptive Text Intelligence Tool\n");
-    printf("  Student ID: 224015587\n");
+    printf("  Student ID: 1\n");
     printf("  Custom Analysis: Average Word Length\n");
     printf("========================================\n\n");
 
