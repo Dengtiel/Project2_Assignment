@@ -1,4 +1,4 @@
-# CProject2_Assignment — C Programming Projects
+# Project2_Assignment — C Programming Projects
 
 **Student Email:** d.akol@alustudent.com
 **Language:** C
