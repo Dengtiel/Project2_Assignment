@@ -181,7 +181,7 @@ void load_sample_data(void) {
 int main(void) {
     printf("========================================\n");
     printf("  Dynamic Student Record Engine\n");
-    printf("  Student ID: 224015587\n");
+    printf("  Student ID: 1\n");
     printf("  Analysis  : Grade Stability Score\n");
     printf("========================================\n\n");
 
