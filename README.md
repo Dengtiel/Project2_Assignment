@@ -130,7 +130,7 @@ gcc -Wall -o device_monitor project3_device_monitor.c
 
 ## Compiling All Projects at Once
 
-From the root `CSC_Assignment` folder:
+From the root `Project2_Assignment` folder:
 
 ```bash
 gcc -Wall -o project1/student_records project1/project1_student_records.c && echo "Project 1 OK"
@@ -150,7 +150,7 @@ Project 3 OK
 ## Project Structure
 
 ```
-CSC_Assignment/
+Project2_Assignment/
 ├── README.md
 ├── project1/
 │   └── project1_student_records.c
