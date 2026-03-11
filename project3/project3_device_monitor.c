@@ -97,12 +97,7 @@ void simulate_reading(struct Device *d) {
 
 int main(void) {
     srand((unsigned)time(NULL));
-
-    printf("========================================\n");
-    printf("  Callback-Based Device Monitor\n");
-    printf("  Student ID: 224015587\n");
-    printf("  Custom Callback: fault_detector\n");
-    printf("========================================\n\n");
+    printf("Callback-Based Device Monitor\n\n");
 
     /* dynamically allocate array of devices */
     int num_devices = 6;
